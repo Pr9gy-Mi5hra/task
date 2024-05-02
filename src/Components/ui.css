@@ -1,0 +1,68 @@
+
+
+.web-page{
+    background-color:black;
+}
+.heading{
+    color: white;
+    text-align: center;
+}
+  .div1 {
+    position: relative;
+    left: 30%;
+    background-color: white; 
+    text-align: center;
+    width: 600px;
+    height: 900px;
+    border-radius: 8px; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    padding: 16px; 
+  }
+  .user-pic {
+    max-width: 35%; 
+    border-radius: 50%; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+    
+  }
+ 
+  .web{
+ margin-top: 23px;
+    
+  }
+ 
+  .website{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: rgb(218, 223, 223);
+    left: 34%;
+    
+    
+  }
+  .container1{
+    position: relative;
+  }
+  #val{
+    margin-top: 10%;
+  }
+  .container2{
+    position: relative;
+    background-color: rgb(208, 213, 212);
+    border-radius: 13px;
+    width: 200px;
+    height: 200px;
+    top: 237px;
+    left: 34%;
+   
+  }
+#val2{
+    margin-top: 10%;
+}
+
+@media (max-width: 940px) {
+    .main{
+        left: 0%;
+    }
+    
+}
